@@ -46,11 +46,6 @@ Date: Wed Apr 23 01:15:12 BST 2025
 - #1: add version controller and api response to return entangle version
 
 ==============================
-🚀 Release: v0.0.3
-Date: Wed Apr 23 01:19:16 BST 2025
-==============================
-
-==============================
 🚀 Release: v0.0.4
 Date: Wed Apr 23 01:19:32 BST 2025
 ==============================
