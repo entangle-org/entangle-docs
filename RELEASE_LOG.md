@@ -29,3 +29,19 @@ Date: Thu Apr 17 21:19:39 BST 2025
 - #3: Add postgres to backend docker compose
 - #3: Add psotgres to backend docker compose
 
+==============================
+🚀 Release: v0.0.3
+Date: Wed Apr 23 01:15:12 BST 2025
+==============================
+
+-e ## v0.0.3 – entangle-frontend
+- Merge pull request #10 from entangle-org/feature/frontend-09
+- #9: add version endpoint call to App.tsx to display version dynamically
+- #9: add version endpoint call to App.tsx to display version dynamically
+
+-e ## v0.0.3 – entangle-backend
+- Merge pull request #7 from entangle-org/feature/backend-01
+- #1: add version controller and api response to return entangle version
+- #1: add version controller and api response to return entangle version
+- #1: add version controller and api response to return entangle version
+
