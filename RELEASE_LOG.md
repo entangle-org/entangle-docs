@@ -56,3 +56,14 @@ Date: Wed Apr 23 01:19:32 BST 2025
 -e ## v0.0.4 – entangle-backend
 
 
+==============================
+🚀 Release: v0.0.5
+Date: Mon Apr 28 22:59:15 BST 2025
+==============================
+
+## v0.0.5 – entangle-frontend
+
+
+## v0.0.5 – entangle-backend
+
+
